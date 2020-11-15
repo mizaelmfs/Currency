@@ -1,0 +1,4 @@
+include ':Local'
+include ':Network'
+include ':app'
+rootProject.name = "Currency"
